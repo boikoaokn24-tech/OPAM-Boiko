@@ -1,0 +1,14 @@
+D:\Programs\Lab1_Variant2\bin\Debug\net10.0\Lab1_Variant2.exe
+D:\Programs\Lab1_Variant2\bin\Debug\net10.0\Lab1_Variant2.deps.json
+D:\Programs\Lab1_Variant2\bin\Debug\net10.0\Lab1_Variant2.runtimeconfig.json
+D:\Programs\Lab1_Variant2\bin\Debug\net10.0\Lab1_Variant2.dll
+D:\Programs\Lab1_Variant2\bin\Debug\net10.0\Lab1_Variant2.pdb
+D:\Programs\Lab1_Variant2\obj\Debug\net10.0\Lab1_Variant2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Lab1_Variant2\obj\Debug\net10.0\Lab1_Variant2.AssemblyInfoInputs.cache
+D:\Programs\Lab1_Variant2\obj\Debug\net10.0\Lab1_Variant2.AssemblyInfo.cs
+D:\Programs\Lab1_Variant2\obj\Debug\net10.0\Lab1_Variant2.csproj.CoreCompileInputs.cache
+D:\Programs\Lab1_Variant2\obj\Debug\net10.0\Lab1_Variant2.dll
+D:\Programs\Lab1_Variant2\obj\Debug\net10.0\refint\Lab1_Variant2.dll
+D:\Programs\Lab1_Variant2\obj\Debug\net10.0\Lab1_Variant2.pdb
+D:\Programs\Lab1_Variant2\obj\Debug\net10.0\Lab1_Variant2.genruntimeconfig.cache
+D:\Programs\Lab1_Variant2\obj\Debug\net10.0\ref\Lab1_Variant2.dll
